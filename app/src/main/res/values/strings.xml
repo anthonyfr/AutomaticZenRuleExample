@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutomaticZenRuleExample</string>
+    <string name="create_btn">Create</string>
+    <string name="delete_btn">Delete</string>
+</resources>
